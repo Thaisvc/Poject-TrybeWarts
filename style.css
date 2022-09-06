@@ -85,3 +85,15 @@ footer {
 #label-casa {
   width: 24%;
 }
+
+#trybewarts-forms-logo{
+  transition: all .5s;
+    border: 10px solid transparent;
+}
+
+
+#trybewarts-forms-logo:hover{
+  border: 5px solid #32A791;
+  border-radius: 50%;
+
+}
