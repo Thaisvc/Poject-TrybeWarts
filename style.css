@@ -6,6 +6,7 @@
 
 .container-main {
   display: flex;
+  background-color: #f5f4f3;
 }
 
 .container-form {
@@ -39,7 +40,7 @@ footer {
 #trybewarts-forms-logo {
   display: flex;
   height: 500px;
-  align-self: flex-end;
+  align-self: center;
 }
 
 .imagen {
