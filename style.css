@@ -34,7 +34,7 @@
 footer {
   display: flex;
   justify-content: center;
-  margin: 30px;
+  background-color: #32A791;
 }
 
 #trybewarts-forms-logo {
@@ -96,4 +96,8 @@ footer {
   border: 5px solid #32A791;
   border-radius: 50%;
 
+}
+
+#submit-btn {
+  margin-bottom: 12px;
 }
