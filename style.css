@@ -1,6 +1,6 @@
 * {
-  margin: 0;
-  padding: 0;
+  margin: 0px;
+  padding: 1px;
   box-sizing: border-box;
 }
 
@@ -10,7 +10,7 @@
 
 .container-form {
   display: flex;
-  width: 675px;
+  width: 738px;
 }
 
 #evaluation-form {
@@ -53,7 +53,7 @@ footer {
 }
 
 .container-inputs :nth-of-type( 1 ) {
-  width: 50%;
+  width: 367px;
 }
 
 .container-inputs :nth-of-type( 2 ) {
@@ -73,4 +73,14 @@ footer {
   display: flex;
   flex-direction: row-reverse;
   justify-content: flex-end;
+}
+
+.small {
+  font-size: x-small;
+  width: 80px;
+  height: 40px;
+}
+
+#label-casa {
+  width: 24%;
 }
